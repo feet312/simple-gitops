@@ -8,5 +8,5 @@ resources:
 - ingress-simple-api.yaml
 
 images:
-- name: skaqud/simple-api
-  newTag: RB0.0.7
+- name: feet312/simple-api
+  newTag: RB0.0.15
